@@ -88,7 +88,7 @@ class Employee implements EmployeeDetails{
             console.log(employeeDetails);
             console.log(deletedEmployeeDetails);
             
-        }
+        }  
 
 
 }
